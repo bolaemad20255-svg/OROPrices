@@ -1,0 +1,6 @@
+{
+  "name": "ORO System - Real-time Gold Prices",
+  "description": "Live gold prices management system displaying karat rates, bullion bars, coins, and automated total price calculations with admin controls and real-time updates.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
